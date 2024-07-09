@@ -11,3 +11,6 @@ I added an image
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Turn on Github pages
+- [x] outline my portfolio
+- [ ] introduce myself to the world
