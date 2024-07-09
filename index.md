@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Turn on Github pages
 - [x] outline my portfolio
 - [ ] introduce myself to the world
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
